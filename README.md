@@ -7,3 +7,4 @@ Expected behavior:
 - LegacyFixer updates requirements.txt.
 - LegacyFixer creates a fix branch.
 - LegacyFixer opens a Pull Request.
+Trigger LegacyFixer cloud PR test.
