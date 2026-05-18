@@ -8,3 +8,4 @@ Expected behavior:
 - LegacyFixer creates a fix branch.
 - LegacyFixer opens a Pull Request.
 Trigger LegacyFixer cloud PR test.
+Trigger after git identity fix.
